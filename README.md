@@ -1,12 +1,12 @@
-# SKILL
+# Skills
 ### Frontend
-![My Skills](https://skillicons.dev/icons?i=react,ts,firebase)
+![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,firebase)
 ### Backend
-![My Skills](https://skillicons.dev/icons?i=cpp,go,docker,mysql,postgres,nginx)
+![My Skills](https://skillicons.dev/icons?i=cpp,go,ts,docker,mysql,postgres,nginx)
 ### Other
-![My Skills](https://skillicons.dev/icons?i=neovim,github,vscode,md,linux)
+![My Skills](https://skillicons.dev/icons?i=neovim,git,github,vscode,linux)
 
-# STATUS
+# Status
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurichi&layout=compact&count_private=true&show_icons=true&theme=onedark" />
